@@ -3,7 +3,7 @@ Summary:	Helper utilities which enable Django installations to be multi-site awa
 Name:		python-threaded_multihost
 Version:	1.0
 Release:	0.1
-License:	GPL
+License:	BSD
 Group:		Development/Languages/Python
 Source0:	http://gosatchmo.com/static/files/%{module}-%{version}_release.tar.gz
 # Source0-md5:	a2bc485a2083f04a0fac4ed9993f7225
